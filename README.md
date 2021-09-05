@@ -55,5 +55,6 @@ _Ferris, Founder and CEO_
 <br/>
 [Contact Us](https://pages.github.com/) for one stop solutions to your eBusiness.
 
-<br/> 
+
+<br/> <br/> <br/> 
 This site was built using [GitHub](https://pages.github.com/).
