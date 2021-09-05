@@ -1,5 +1,5 @@
 
- This repo will have all the files related to assignment 1 where it says about the 
+ This repo will have all the files related to assignment 1 .
 
 # Vecta Corporation
 
